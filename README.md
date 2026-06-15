@@ -1,10 +1,10 @@
 # MPI3501 Installer
 
 ```bash
-git clone https://github.com/xxxx/mpi3501-install.git
+git clone https://github.com/samulai4219/LCD-3.5.git
 
-cd mpi3501-install
+cd LCD-3.5
 
 chmod +x install.sh
 
-./install.sh
+sudo ./install.sh
