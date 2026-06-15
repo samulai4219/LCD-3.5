@@ -12,5 +12,6 @@ sudo ./install.sh
 
 ```如何旋转显示方向```
 
-cd LCD-show
+cd LCD-3.5
+
 sudo ./rotate.sh 180
